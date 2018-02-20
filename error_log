@@ -1,0 +1,57 @@
+[20-Jun-2017 12:30:46 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/webilation/public_html/dev/memeimporter/vendor/symfony/polyfill-mbstring/Mbstring.php on line 358
+[20-Jun-2017 12:31:04 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/webilation/public_html/dev/memeimporter/vendor/symfony/polyfill-mbstring/Mbstring.php on line 358
+[20-Jun-2017 12:32:27 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/webilation/public_html/dev/memeimporter/vendor/symfony/polyfill-mbstring/Mbstring.php on line 358
+[20-Jun-2017 12:34:46 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/webilation/public_html/dev/memeimporter/vendor/symfony/polyfill-mbstring/Mbstring.php on line 358
+[20-Jun-2017 12:35:17 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/webilation/public_html/dev/memeimporter/vendor/symfony/polyfill-mbstring/Mbstring.php on line 358
+[20-Jun-2017 12:36:27 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/webilation/public_html/dev/memeimporter/vendor/symfony/polyfill-mbstring/Mbstring.php on line 358
+[20-Jun-2017 12:37:14 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/webilation/public_html/dev/memeimporter/vendor/symfony/polyfill-mbstring/Mbstring.php on line 358
+[20-Jun-2017 12:37:18 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/webilation/public_html/dev/memeimporter/vendor/symfony/polyfill-mbstring/Mbstring.php on line 358
+[20-Jun-2017 12:37:25 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/webilation/public_html/dev/memeimporter/vendor/symfony/polyfill-mbstring/Mbstring.php on line 358
+[20-Jun-2017 12:40:23 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/webilation/public_html/dev/memeimporter/vendor/symfony/polyfill-mbstring/Mbstring.php on line 358
+[20-Jun-2017 12:45:26 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/webilation/public_html/dev/memeimporter/vendor/symfony/polyfill-mbstring/Mbstring.php on line 358
+[20-Jun-2017 12:45:35 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/webilation/public_html/dev/memeimporter/vendor/symfony/polyfill-mbstring/Mbstring.php on line 358
+[20-Jun-2017 12:45:44 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/webilation/public_html/dev/memeimporter/vendor/symfony/polyfill-mbstring/Mbstring.php on line 358
+[20-Jun-2017 12:47:52 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/webilation/public_html/dev/memeimporter/vendor/symfony/polyfill-mbstring/Mbstring.php on line 358
+[20-Jun-2017 13:04:15 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/webilation/public_html/dev/memeimporter/vendor/symfony/polyfill-mbstring/Mbstring.php on line 358
+[20-Jun-2017 13:21:13 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/webilation/public_html/dev/memeimporter/vendor/symfony/polyfill-mbstring/Mbstring.php on line 358
+[20-Jun-2017 13:34:33 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/webilation/public_html/dev/memeimporter/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[20-Jun-2017 15:02:17 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/webilation/public_html/dev/memeimporter/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[20-Jun-2017 15:02:28 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/webilation/public_html/dev/memeimporter/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[20-Jun-2017 15:30:17 UTC] PHP Warning:  require(/home/webilation/public_html/dev/memeimporter/public/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/webilation/public_html/dev/memeimporter/public/index.php on line 23
+[20-Jun-2017 15:30:17 UTC] PHP Fatal error:  require(): Failed opening required '/home/webilation/public_html/dev/memeimporter/public/bootstrap/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/webilation/public_html/dev/memeimporter/public/index.php on line 23
+[20-Jun-2017 17:31:56 UTC] PHP Warning:  copy(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in Command line code on line 1
+[20-Jun-2017 17:31:56 UTC] PHP Warning:  copy(https://getcomposer.org/installer): failed to open stream: no suitable wrapper could be found in Command line code on line 1
+[20-Jun-2017 17:32:09 UTC] PHP Warning:  hash_file(composer-setup.php): failed to open stream: No such file or directory in Command line code on line 1
+[20-Jun-2017 17:32:09 UTC] PHP Warning:  unlink(composer-setup.php): No such file or directory in Command line code on line 1
+[20-Jun-2017 19:13:03 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(): Filename cannot be empty' in /home/webilation/public_html/dev/memeimporter/app/Http/routes.php:33
+Stack trace:
+#0 /home/webilation/public_html/dev/memeimporter/app/Http/routes.php(33): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(): File...', '/home/webilatio...', 33, Array)
+#1 /home/webilation/public_html/dev/memeimporter/app/Http/routes.php(33): App\Providers\RouteServiceProvider::{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->{closure}(Object(Illuminate\Routing\Router))
+#3 /home/webilation/public_html/dev/memeimporter/vendor/laravel/framework/src/Illuminate/Routing/Router.php(398): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/webilation/public_html/dev/memeimporter/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(219): Illuminate\Routing\Router->group(Array, Object(Closure))
+#5 /home/webilation/public_html/dev/memeimporter/app/Http/routes.php(34 in /home/webilation/public_html/dev/memeimporter/app/Http/routes.php on line 33
+[20-Jun-2017 19:13:03 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::{closure}(): Failed opening required '' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/webilation/public_html/dev/memeimporter/app/Http/routes.php on line 33
+[20-Jun-2017 19:14:48 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'require(): Filename cannot be empty' in /home/webilation/public_html/dev/memeimporter/app/Http/routes.php:33
+Stack trace:
+#0 /home/webilation/public_html/dev/memeimporter/app/Http/routes.php(33): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(): File...', '/home/webilatio...', 33, Array)
+#1 /home/webilation/public_html/dev/memeimporter/app/Http/routes.php(33): App\Providers\RouteServiceProvider::{closure}()
+#2 [internal function]: App\Providers\RouteServiceProvider->{closure}(Object(Illuminate\Routing\Router))
+#3 /home/webilation/public_html/dev/memeimporter/vendor/laravel/framework/src/Illuminate/Routing/Router.php(398): call_user_func(Object(Closure), Object(Illuminate\Routing\Router))
+#4 /home/webilation/public_html/dev/memeimporter/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(219): Illuminate\Routing\Router->group(Array, Object(Closure))
+#5 /home/webilation/public_html/dev/memeimporter/app/Http/routes.php(34 in /home/webilation/public_html/dev/memeimporter/app/Http/routes.php on line 33
+[20-Jun-2017 19:14:48 UTC] PHP Fatal error:  App\Providers\RouteServiceProvider::{closure}(): Failed opening required '' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/webilation/public_html/dev/memeimporter/app/Http/routes.php on line 33
+[20-Jun-2017 19:28:43 UTC] PHP Fatal error:  Class 'InfyOm\Generator\Common\BaseRepository' not found in /home/webilation/public_html/dev/memeimporter/app/Repositories/FeedsRepository.php on line 9
+[20-Jun-2017 19:48:53 UTC] PHP Fatal error:  Class 'InfyOm\Generator\Common\BaseRepository' not found in /home/webilation/public_html/dev/memeimporter/app/Repositories/FeedsRepository.php on line 9
+[20-Jun-2017 19:48:58 UTC] PHP Fatal error:  Class 'InfyOm\Generator\Common\BaseRepository' not found in /home/webilation/public_html/dev/memeimporter/app/Repositories/FeedsRepository.php on line 9
+[20-Jun-2017 20:03:34 UTC] PHP Fatal error:  Class 'InfyOm\Generator\Common\BaseRepository' not found in /home/webilation/public_html/dev/memeimporter/app/Repositories/FeedsRepository.php on line 9
+[20-Jun-2017 20:23:07 UTC] PHP Fatal error:  Class 'InfyOm\Generator\Common\BaseRepository' not found in /home/webilation/public_html/dev/memeimporter/app/Repositories/FeedsRepository.php on line 9
+[20-Jun-2017 20:31:22 UTC] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/webilation/public_html/dev/memeimporter/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[20-Jun-2017 20:35:36 UTC] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/webilation/public_html/dev/memeimporter/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[20-Jun-2017 20:35:44 UTC] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/webilation/public_html/dev/memeimporter/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[20-Jun-2017 20:45:16 UTC] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/webilation/public_html/dev/memeimporter/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[20-Jun-2017 20:47:41 UTC] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/webilation/public_html/dev/memeimporter/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[20-Jun-2017 20:50:08 UTC] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/webilation/public_html/dev/memeimporter/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[20-Jun-2017 21:19:15 UTC] PHP Warning:  require(/home/webilation/public_html/dev/memeimporter/vendor/composer/../laracasts/flash/src/Laracasts/Flash/functions.php): failed to open stream: No such file or directory in /home/webilation/public_html/dev/memeimporter/vendor/composer/autoload_real.php on line 66
+[20-Jun-2017 21:19:15 UTC] PHP Fatal error:  require(): Failed opening required '/home/webilation/public_html/dev/memeimporter/vendor/composer/../laracasts/flash/src/Laracasts/Flash/functions.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/webilation/public_html/dev/memeimporter/vendor/composer/autoload_real.php on line 66
+[21-Jun-2017 18:59:35 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/webilation/public_html/dev/memeimporter/storage/framework/views/af7852f61e7dd3d5269e4a6dff92d8c76c7b54a0.php on line 28

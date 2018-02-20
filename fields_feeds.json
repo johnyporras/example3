@@ -1,0 +1,38 @@
+[
+    {
+        "name": "id",
+        "dbType": "increments",
+        "htmlType": "",
+        "validations": "",
+        "searchable": false,
+        "fillable": false,
+        "primary": true,
+        "inForm": false,
+        "inIndex": false
+    },
+    {
+        "name": "type",
+        "dbType": "string",
+        "htmlType":"radio,Rss,Atom",
+        "validations": "required",
+        "searchable": true
+    },
+    {
+        "name": "name",
+        "dbType": "string",
+        "htmlType": "text",
+        "searchable": true
+    },
+    {
+        "name": "description",
+        "dbType": "text",
+        "htmlType": "textarea"
+    },
+    {
+        "name": "url",
+        "dbType": "string",
+        "htmlType": "text",
+        "searchable": true,
+        "inForm": true
+    }
+]

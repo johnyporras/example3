@@ -1,0 +1,346 @@
+<?xml version="1.0" standalone="yes"?>
+<feeds>
+  <feed>
+    <id>2</id>
+    <type>atom</type>
+    <url>http://feeds.marketingpilgrim.com/marketing-pilgrim</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>3</id>
+    <type>atom</type>
+    <url>http://feeds.feedburner.com/seomoz</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>4</id>
+    <type>atom</type>
+    <url>http://feeds.searchengineland.com/searchengineland?format=xml</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>5</id>
+    <type>atom</type>
+    <url>http://feeds.feedburner.com/seobook/seobook</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>6</id>
+    <type>RSS</type>
+    <url>http://www.straightupsearch.com/feed</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>7</id>
+    <type>RSS</type>
+    <url>http://bestinternetmarketingprogram.com/?feed=rss2</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>9</id>
+    <type>RSS</type>
+    <url>http://feeds.feedburner.com/blogstorm?format=xml</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>8</id>
+    <type>RSS</type>
+    <url>http://www.searchengineoptimizationjournal.com/feed/</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>10</id>
+    <type>atom</type>
+    <url>http://www.mattcutts.com/blog/feed/atom/</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>11</id>
+    <type>atom</type>
+    <url>http://feeds.feedburner.com/courtneytuttle</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>12</id>
+    <type>atom</type>
+    <url>http://feeds.searchenginewatch.com/sew</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>13</id>
+    <type>atom</type>
+    <url>http://feeds.feedburner.com/pandia/vfbc</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>14</id>
+    <type>atom</type>
+    <url>http://feeds.feedburner.com/sesnews</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>15</id>
+    <type>atom</type>
+    <url>http://feeds.feedburner.com/Wolf-howl</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>16</id>
+    <type>atom</type>
+    <url>http://feeds.feedburner.com/97thfloor</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>17</id>
+    <type>atom</type>
+    <url>http://feeds.feedburner.com/OnlineMarketingSEOBlog</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>18</id>
+    <type>atom</type>
+    <url>http://feeds.feedburner.com/PronetAdvertising</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>19</id>
+    <type>rss</type>
+    <url>http://www.seochat.com/rss.xml</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>20</id>
+    <type>rss</type>
+    <url>http://seoblackhat.com/feed/</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>21</id>
+    <type>rss</type>
+    <url>http://www.stuntdubl.com/feed</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>22</id>
+    <type>RSS</type>
+    <url>http://www.seobythesea.com/?feed=rss2</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>23</id>
+    <type>atom</type>
+    <url>http://feeds.feedburner.com/LinkBuildingBlog</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>24</id>
+    <type>rss</type>
+    <url>http://www.webuildpages.com/jim/feed/</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>25</id>
+    <type>atom</type>
+    <url>http://feeds.feedburner.com/seopedia/</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>26</id>
+    <type>rss</type>
+    <url>http://feeds.davidnaylor.co.uk/davenaylor</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>27</id>
+    <type>atom</type>
+    <url>http://feeds.searchenginewatch.com/sewblog</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>28</id>
+    <type>atom</type>
+    <url>http://feeds.feedburner.com/BlueHatSEO/HXKR</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>29</id>
+    <type>rss</type>
+    <url>http://feeds.feedburner.com/johnon/pDvU</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>30</id>
+    <type>rss</type>
+    <url>http://www.seorefugee.com/seoblog/go/rss.php</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>31</id>
+    <type>atom</type>
+    <url>http://feeds.feedburner.com/SmallBusinessSem</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>32</id>
+    <type>atom</type>
+    <url>http://feeds.feedburner.com/seoscoop?format=xml</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>33</id>
+    <type>RSS</type>
+    <url>http://blog.spiderloop.com/SyndicationService.asmx/GetRss</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>34</id>
+    <type>RSS</type>
+    <url>http://www.searchengineoptimization.co.uk/seo-articles/feed</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>35</id>
+    <type>RSS</type>
+    <url>http://www.wilsonweb.com/xml/wilsonweb.xml</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>36</id>
+    <type>RSS</type>
+    <url>http://feeds2.feedburner.com/Marketingexperiments-Blog</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>37</id>
+    <type>RSS</type>
+    <url>http://feeds.feedburner.com/seoptimise</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>38</id>
+    <type>RSS</type>
+    <url>http://feeds.feedburner.com/viperchill</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>39</id>
+    <type>RSS</type>
+    <url>http://feeds.ezinearticles.com/expert/Francois_Bellavance.xml</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>41</id>
+    <type>RSS</type>
+    <url>http://feeds.ezinearticles.com/expert/Stephen_Kavita.xml</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>42</id>
+    <type>RSS</type>
+    <url>http://feeds.feedburner.com/SearchEngineJournal</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>43</id>
+    <type>RSS</type>
+    <url>http://feeds.feedburner.com/AndyBeal</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>44</id>
+    <type>RSS</type>
+    <url>http://www.seosmarty.com/feed/</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>45</id>
+    <type>RSS</type>
+    <url>http://feeds.feedburner.com/DailyDose4me</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>46</id>
+    <type>RSS</type>
+    <url>http://feeds.feedburner.com/Quicksprout</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>47</id>
+    <type>ATOM</type>
+    <url>http://feeds.feedburner.com/SmallBusinessSocialMediaStrategy-JenniferLaycock</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>48</id>
+    <type>RSS</type>
+    <url>http://feeds.ezinearticles.com/expert/Andrew_T_Byrne.xml</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>50</id>
+    <type>RSS</type>
+    <url>http://rss.news.yahoo.com/rss/search</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>51</id>
+    <type>RSS</type>
+    <url>http://rss.news.yahoo.com/rss/buscommentary</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+  <feed>
+    <id>52</id>
+    <type>RSS</type>
+    <url>http://feeds.feedburner.com/SeoBullshit</url>
+    <checked>4/14/2011 12:45 PM</checked>
+    <athoritative>0</athoritative>
+  </feed>
+</feeds>
